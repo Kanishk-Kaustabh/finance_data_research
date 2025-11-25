@@ -39,7 +39,7 @@ This repository documents a BBA Summer Internship completed in the Finance Depar
 
 ## Repository contents and tools
 
- Dashboard Interaction <a href=""></a>
+ <a href="https://github.com/Kanishk-Kaustabh/finance_data_research/blob/main/finance_data_research.pdf">Finance_Data</a>
 ---
 
 ## Summary
