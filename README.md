@@ -37,10 +37,11 @@ This repository documents a BBA Summer Internship completed in the Finance Depar
 
 ---
 
-## Repository contents and tools
+## Repository contents 
 
  <a href="https://github.com/Kanishk-Kaustabh/finance_data_research/blob/main/finance_data_research.pdf">Finance_Data</a>
 ---
+
 
 ## Summary
 This internship project demonstrates applied skills in financial analysis, modeling, research, and reporting. It converts business questions into data‑driven recommendations on payment optimization, portfolio construction, stock selection, and cash flow management to support Outlook’s strategic growth.
